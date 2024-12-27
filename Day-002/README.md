@@ -28,7 +28,7 @@ temperature = 36.5  # temperature is a float variable
 
 ## 3️⃣ String (str)
 Represents text, enclosed in single (') or double (") quotes.
-Examples: "Hello", 'Python'.
+Examples: ""Hello", 'Python'.
 Usage: Storing names, messages, or any textual data.
 python
 Copy code

@@ -8,8 +8,8 @@ name = "Ali" # String
 is_student = True # Boolean
 
 # Printing the variables
-print("Name:",age)
-print("Age:", height)
+print("Name:",name)
+print("Age:", age)
 print("Height:", height)
 print("Is Student:", is_student)
 
